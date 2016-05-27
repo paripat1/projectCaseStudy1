@@ -1,0 +1,3 @@
++ issue1 (wait to fix)
+
++ issue2 (fix addcustomer )
